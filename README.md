@@ -1,4 +1,4 @@
-![Header](https://github.com/CristalQQ/CristalQQ/blob/main/assets/Register%20-%20Login.gif)
+<img src="https://github.com/CristalQQ/CristalQQ/blob/main/assets/Register%20-%20Login.gif" alt="The Unlimited" width="180"/>
 
 About me 
 
