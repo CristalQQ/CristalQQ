@@ -1,4 +1,4 @@
-<img src="https://github.com/CristalQQ/CristalQQ/blob/main/assets/Register%20-%20Login.gif" alt="The Unlimited" width="180"/>
+[![MasterHead](https://github.com/VladislavKobzar/VladislavKobzar/blob/main/assets/Register%20-%20Login.gif)]
 
 About me 
 
